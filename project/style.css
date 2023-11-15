@@ -1,0 +1,161 @@
+body {
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 24px;
+}
+
+header .logo {
+  width: 470px;
+  float: left;
+}
+
+header .search {
+  float: right;
+}
+
+header .nav {
+  float: right;
+}
+
+header .nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header .nav a:hover {
+  color: #ccc;
+}
+
+main {
+  margin-top: 40px;
+}
+
+.banner {
+  text-align: center;
+}
+
+.banner img {
+  max-width: 100%;
+}
+
+.products {
+  margin-top: 20px;
+}
+
+.products h2 {
+  font-size: 20px;
+}
+
+.products .filters {
+  margin-bottom: 20px;
+}
+
+.products ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.products ul li {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.products ul li img {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.products ul li h3 {
+  font-size: 18px;
+}
+
+.products ul li p {
+  font-size: 16px;
+}
+
+.products ul li .price {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.cart {
+  margin-top: 20px;
+}
+
+.cart h2 {
+  font-size: 20px;
+}
+
+.cart ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cart ul li {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.cart ul li img {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.cart ul li h3 {
+  font-size: 18px;
+}
+
+.cart ul li p {
+  font-size: 16px;
+}
+
+.cart ul li .price {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.cart .total {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.about {
+  margin-top: 20px;
+}
+
+.about h2 {
+  font-size: 20px;
+}
+
+.about p {
+  font-size: 16px;
+}
+
+.contact {
+  margin-top: 20px;
+}
+
+.contact h2 {
+  font-size: 20px;
+}
+
+.contact p {
+  font-size: 16px;
+}

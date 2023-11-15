@@ -1,0 +1,24 @@
+.cart-items {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-item {
+  margin-bottom: 10px;
+}
+
+.cart-item img {
+  width: 100px;
+}
+
+.cart-item h2 {
+  margin: 0;
+}
+
+.cart-item p {
+  margin: 0;
+}
+
+.cart-total {
+  text-align: right;
+}
